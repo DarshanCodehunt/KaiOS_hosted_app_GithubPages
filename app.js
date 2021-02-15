@@ -7,7 +7,7 @@ document.addEventListener("keydown", handleevent);
 function handleevent(evt) {
   switch (evt.key) {
     case "ArrowLeft":
-      console.log("LEFT");
+      window.open("https://www.w3schools.com/");
 
       break;
     case "ArrowRight":
