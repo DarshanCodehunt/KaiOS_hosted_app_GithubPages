@@ -4,29 +4,26 @@
   "display": "windowOpen",
   "origin": "https://www.newsplusapp.com/manifest.webapp",
   "theme": "#cc0000",
-  "categories": [
-  	"news"
-  ],
+  "categories": ["news"],
   "launch_path": "/index.html",
   "icons": {
-    "56":"/newsplus56x56.png",
-    "84":"/newsplus84x84.png",
-    "112":"/newsplus112x112.png",
-    "128":"/newsplus128x128.png"
+    "56": "/newsplus56x56.png",
+    "84": "/newsplus84x84.png",
+    "112": "/newsplus112x112.png",
+    "128": "/newsplus128x128.png"
   },
   "developer": {
     "name": "Darshan",
     "url": "https://example.com"
-  },  
-  "default_locale": "en-US",  
-  "locales": { 
-		"en-US": { 
-		"name": "NewsPlus", 
-		"description": "NewsPlus - Real News for you from trusted sources", 
-		"subtitle": "Personalized News" 
-		} 
-
-	}, 
+  },
+  "default_locale": "en-US",
+  "locales": {
+    "en-US": {
+      "name": "NewsPlus",
+      "description": "NewsPlus - Real News for you from trusted sources",
+      "subtitle": "Personalized News"
+    }
+  },
   "type": "web",
   "fullscreen": true,
   "cursor": true
