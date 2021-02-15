@@ -5,7 +5,7 @@
   "origin": "https://darshancodehunt.github.io/hostedDemo/manifest.webapp",
   "theme": "#cc0000",
   "categories": ["news"],
-  "launch_path": "/index.html",
+  "launch_path": "/hostedDemo/index.html",
   "icons": {
     "56": "/newsplus56x56.png",
     "84": "/newsplus84x84.png",
