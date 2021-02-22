@@ -7,7 +7,7 @@ document.addEventListener("keydown", handleevent);
 function handleevent(evt) {
   switch (evt.key) {
     case "ArrowLeft":
-      window.open("http://www.newsplusapp.com/videos/cPQ3WLk.html?wlID=JIO");
+      window.open("https://www.newsplusapp.com/news/BPQ9dgF.html?wlID=JIO");
 
       break;
     case "ArrowRight":
