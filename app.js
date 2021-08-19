@@ -1,5 +1,5 @@
 window.addEventListener("load", function () {
-  console.log("Hello World!");
+  console.log("Hello World! New Data Store added");
 });
 
 document.addEventListener("keydown", handleevent);
