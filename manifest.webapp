@@ -26,5 +26,11 @@
   },
   "type": "web",
   "fullscreen": true,
-  "cursor": false
+  "cursor": false,
+   "datastores-access": {
+      "dummy_store": {
+      "access": "readonly",
+      "description": "Dummy Store access"
+    }
+   }
 }
