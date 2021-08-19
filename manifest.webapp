@@ -24,7 +24,7 @@
       "subtitle": "Personalized News"
     }
   },
-  "type": "web",
+  "type": "privileged",
   "fullscreen": true,
   "cursor": false,
    "datastores-access": {
